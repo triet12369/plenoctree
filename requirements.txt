@@ -3,8 +3,7 @@ imageio
 imageio-ffmpeg 
 ipdb 
 lpips 
-jax 
-jaxlib 
+jax=0.2.12
 flax 
 opencv-python 
 Pillow 
